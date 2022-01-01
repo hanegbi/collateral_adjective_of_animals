@@ -26014,3 +26014,612 @@
 [2022-01-01 21:30:29,907] ERROR - There is no image of Dolphin
 [2022-01-01 21:30:29,907] ERROR - There is no image of Fish
 [2022-01-01 21:30:29,908] INFO - Producing collateral adjectives for animals is DONE
+[2022-01-01 22:07:11,008] DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+[2022-01-01 22:07:11,359] DEBUG - https://en.wikipedia.org:443 "GET /wiki/List_of_animal_names HTTP/1.1" 200 52038
+[2022-01-01 22:07:11,475] INFO - Paring table Terms by species or taxon
+[2022-01-01 22:07:11,891] INFO - Finish getting data of Aardvark
+[2022-01-01 22:07:11,892] INFO - Finish getting data of Albatross
+[2022-01-01 22:07:11,892] INFO - Finish getting data of Alligator
+[2022-01-01 22:07:11,893] INFO - Finish getting data of Alpaca
+[2022-01-01 22:07:11,893] INFO - Finish getting data of Anole
+[2022-01-01 22:07:11,893] INFO - Finish getting data of Ant
+[2022-01-01 22:07:11,894] INFO - Finish getting data of Anteater
+[2022-01-01 22:07:11,894] INFO - Finish getting data of Antelope
+[2022-01-01 22:07:11,895] INFO - Finish getting data of Ape
+[2022-01-01 22:07:11,895] INFO - Finish getting data of Armadillo
+[2022-01-01 22:07:11,895] INFO - Finish getting data of Donkey
+[2022-01-01 22:07:11,896] INFO - Finish getting data of Baboon
+[2022-01-01 22:07:11,896] INFO - Finish getting data of Badger
+[2022-01-01 22:07:11,897] INFO - Finish getting data of Barracuda
+[2022-01-01 22:07:11,897] INFO - Finish getting data of Bat
+[2022-01-01 22:07:11,898] INFO - Finish getting data of Bear
+[2022-01-01 22:07:11,898] INFO - Finish getting data of Beaver
+[2022-01-01 22:07:11,898] INFO - Finish getting data of Bee
+[2022-01-01 22:07:11,899] INFO - Finish getting data of Binturong
+[2022-01-01 22:07:11,899] INFO - Finish getting data of Bird
+[2022-01-01 22:07:11,900] INFO - Finish getting data of Bison
+[2022-01-01 22:07:11,900] INFO - Finish getting data of Bluebird
+[2022-01-01 22:07:11,900] INFO - Finish getting data of Boar
+[2022-01-01 22:07:11,901] INFO - Finish getting data of Bobcat
+[2022-01-01 22:07:11,901] INFO - Finish getting data of Budgerigar
+[2022-01-01 22:07:11,902] INFO - Finish getting data of African buffalo
+[2022-01-01 22:07:11,902] INFO - Finish getting data of Butterfly
+[2022-01-01 22:07:11,903] INFO - Finish getting data of Camel
+[2022-01-01 22:07:11,903] INFO - Finish getting data of Capybara
+[2022-01-01 22:07:11,903] INFO - Finish getting data of Caracal
+[2022-01-01 22:07:11,904] INFO - Finish getting data of Caribou
+[2022-01-01 22:07:11,904] INFO - Finish getting data of Cassowary
+[2022-01-01 22:07:11,905] INFO - Finish getting data of Cat
+[2022-01-01 22:07:11,905] INFO - Finish getting data of Caterpillar
+[2022-01-01 22:07:11,906] INFO - Finish getting data of Cattle
+[2022-01-01 22:07:11,906] INFO - Finish getting data of Chamois
+[2022-01-01 22:07:11,906] INFO - Finish getting data of Cheetah
+[2022-01-01 22:07:11,907] INFO - Finish getting data of Chicken
+[2022-01-01 22:07:11,907] INFO - Finish getting data of Chimpanzee
+[2022-01-01 22:07:11,908] INFO - Finish getting data of Chinchilla
+[2022-01-01 22:07:11,908] INFO - Finish getting data of Chough
+[2022-01-01 22:07:11,908] INFO - Finish getting data of Coati
+[2022-01-01 22:07:11,909] INFO - Finish getting data of Cobra
+[2022-01-01 22:07:11,909] INFO - Finish getting data of Cockroach
+[2022-01-01 22:07:11,910] INFO - Finish getting data of Cod
+[2022-01-01 22:07:11,910] INFO - Finish getting data of Cormorant
+[2022-01-01 22:07:11,910] INFO - Finish getting data of Cougar
+[2022-01-01 22:07:11,911] INFO - Finish getting data of Coyote
+[2022-01-01 22:07:11,911] INFO - Finish getting data of Crab
+[2022-01-01 22:07:11,912] INFO - Finish getting data of Crane 
+[2022-01-01 22:07:11,912] INFO - Finish getting data of Cricket 
+[2022-01-01 22:07:11,912] INFO - Finish getting data of Crocodile
+[2022-01-01 22:07:11,913] INFO - Finish getting data of Crow
+[2022-01-01 22:07:11,913] INFO - Finish getting data of Cuckoo
+[2022-01-01 22:07:11,914] INFO - Finish getting data of Curlew
+[2022-01-01 22:07:11,914] INFO - Finish getting data of Deer
+[2022-01-01 22:07:11,914] INFO - Finish getting data of Dhole
+[2022-01-01 22:07:11,915] INFO - Finish getting data of Dingo
+[2022-01-01 22:07:11,916] INFO - Finish getting data of Dinosaur
+[2022-01-01 22:07:11,916] INFO - Finish getting data of Dog
+[2022-01-01 22:07:11,917] INFO - Finish getting data of Squalidae
+[2022-01-01 22:07:11,917] INFO - Finish getting data of Dolphin
+[2022-01-01 22:07:11,917] INFO - Finish getting data of Donkey
+[2022-01-01 22:07:11,918] INFO - Finish getting data of Dove
+[2022-01-01 22:07:11,918] INFO - Finish getting data of Dragonfly
+[2022-01-01 22:07:11,918] INFO - Finish getting data of Duck
+[2022-01-01 22:07:11,919] INFO - Finish getting data of Dugong
+[2022-01-01 22:07:11,919] INFO - Finish getting data of Dunlin
+[2022-01-01 22:07:11,920] INFO - Finish getting data of Eagle
+[2022-01-01 22:07:11,920] INFO - Finish getting data of Echidna
+[2022-01-01 22:07:11,920] INFO - Finish getting data of Eel
+[2022-01-01 22:07:11,921] INFO - Finish getting data of Taurotragus
+[2022-01-01 22:07:11,921] INFO - Finish getting data of Elephant
+[2022-01-01 22:07:11,922] INFO - Finish getting data of Elephant seal
+[2022-01-01 22:07:11,922] INFO - Finish getting data of Elk
+[2022-01-01 22:07:11,922] INFO - Finish getting data of Emu
+[2022-01-01 22:07:11,923] INFO - Finish getting data of Falcon
+[2022-01-01 22:07:11,923] INFO - Finish getting data of Ferret
+[2022-01-01 22:07:11,924] INFO - Finish getting data of Finch
+[2022-01-01 22:07:11,924] INFO - Finish getting data of Fish
+[2022-01-01 22:07:11,924] INFO - Finish getting data of Fisher 
+[2022-01-01 22:07:11,925] INFO - Finish getting data of Flamingo
+[2022-01-01 22:07:11,925] INFO - Finish getting data of Fly
+[2022-01-01 22:07:11,926] INFO - Finish getting data of Old World flycatcher
+[2022-01-01 22:07:11,926] INFO - Finish getting data of Fox
+[2022-01-01 22:07:11,926] INFO - Finish getting data of Frog
+[2022-01-01 22:07:11,927] INFO - Finish getting data of Gaur
+[2022-01-01 22:07:11,927] INFO - Finish getting data of Gazelle
+[2022-01-01 22:07:11,928] INFO - Finish getting data of Gecko
+[2022-01-01 22:07:11,928] INFO - Finish getting data of Genet 
+[2022-01-01 22:07:11,928] INFO - Finish getting data of Gerbil
+[2022-01-01 22:07:11,929] INFO - Finish getting data of Giant panda
+[2022-01-01 22:07:11,929] INFO - Finish getting data of Giraffe
+[2022-01-01 22:07:11,930] INFO - Finish getting data of Gnat
+[2022-01-01 22:07:11,930] INFO - Finish getting data of Wildebeest
+[2022-01-01 22:07:11,931] INFO - Finish getting data of Goat
+[2022-01-01 22:07:11,932] INFO - Finish getting data of European goldfinch
+[2022-01-01 22:07:11,932] INFO - Finish getting data of Common merganser
+[2022-01-01 22:07:11,933] INFO - Finish getting data of Goose
+[2022-01-01 22:07:11,933] INFO - Finish getting data of Gorilla
+[2022-01-01 22:07:11,933] INFO - Finish getting data of Goshawk
+[2022-01-01 22:07:11,934] INFO - Finish getting data of Grasshopper
+[2022-01-01 22:07:11,934] INFO - Finish getting data of Grouse
+[2022-01-01 22:07:11,934] INFO - Finish getting data of Guanaco
+[2022-01-01 22:07:11,935] INFO - Finish getting data of Guinea fowl
+[2022-01-01 22:07:11,935] INFO - Finish getting data of Guinea pig
+[2022-01-01 22:07:11,935] INFO - Finish getting data of Gull
+[2022-01-01 22:07:11,936] INFO - Finish getting data of Hamster
+[2022-01-01 22:07:11,936] INFO - Finish getting data of Hare
+[2022-01-01 22:07:11,937] INFO - Finish getting data of Hawk
+[2022-01-01 22:07:11,937] INFO - Finish getting data of Hedgehog
+[2022-01-01 22:07:11,937] INFO - Finish getting data of Hermit crab
+[2022-01-01 22:07:11,938] INFO - Finish getting data of Heron
+[2022-01-01 22:07:11,938] INFO - Finish getting data of Herring
+[2022-01-01 22:07:11,939] INFO - Finish getting data of Hippopotamus
+[2022-01-01 22:07:11,939] INFO - Finish getting data of Hoatzin
+[2022-01-01 22:07:11,939] INFO - Finish getting data of Hoopoe
+[2022-01-01 22:07:11,940] INFO - Finish getting data of Hornet
+[2022-01-01 22:07:11,940] INFO - Finish getting data of Horse
+[2022-01-01 22:07:11,941] INFO - Finish getting data of Human
+[2022-01-01 22:07:11,941] INFO - Finish getting data of Hummingbird
+[2022-01-01 22:07:11,941] INFO - Finish getting data of Hyena
+[2022-01-01 22:07:11,942] INFO - Finish getting data of Ibex
+[2022-01-01 22:07:11,942] INFO - Finish getting data of Ibis
+[2022-01-01 22:07:11,942] INFO - Finish getting data of Iguana
+[2022-01-01 22:07:11,943] INFO - Finish getting data of Impala
+[2022-01-01 22:07:11,944] INFO - Finish getting data of Jackal
+[2022-01-01 22:07:11,944] INFO - Finish getting data of Jaguar
+[2022-01-01 22:07:11,945] INFO - Finish getting data of Jay
+[2022-01-01 22:07:11,945] INFO - Finish getting data of Jellyfish
+[2022-01-01 22:07:11,945] INFO - Finish getting data of Jerboa
+[2022-01-01 22:07:11,945] INFO - Finish getting data of Kangaroo
+[2022-01-01 22:07:11,946] INFO - Finish getting data of Kingbird
+[2022-01-01 22:07:11,946] INFO - Finish getting data of Kingfisher
+[2022-01-01 22:07:11,946] INFO - Finish getting data of Kinkajou
+[2022-01-01 22:07:11,947] INFO - Finish getting data of Kite 
+[2022-01-01 22:07:11,948] INFO - Finish getting data of Koala
+[2022-01-01 22:07:11,948] INFO - Finish getting data of Kodkod
+[2022-01-01 22:07:11,949] INFO - Finish getting data of Komodo dragon
+[2022-01-01 22:07:11,949] INFO - Finish getting data of Kookaburra
+[2022-01-01 22:07:11,950] INFO - Finish getting data of Kouprey
+[2022-01-01 22:07:11,950] INFO - Finish getting data of Kudu
+[2022-01-01 22:07:11,950] INFO - Finish getting data of Gray langur
+[2022-01-01 22:07:11,951] INFO - Finish getting data of Lapwing
+[2022-01-01 22:07:11,951] INFO - Finish getting data of Lark
+[2022-01-01 22:07:11,951] INFO - Finish getting data of Lechwe
+[2022-01-01 22:07:11,952] INFO - Finish getting data of Lemur
+[2022-01-01 22:07:11,952] INFO - Finish getting data of Leopard
+[2022-01-01 22:07:11,953] INFO - Finish getting data of Lion
+[2022-01-01 22:07:11,953] INFO - Finish getting data of Lizard
+[2022-01-01 22:07:11,953] INFO - Finish getting data of Llama
+[2022-01-01 22:07:11,954] INFO - Finish getting data of Lobster
+[2022-01-01 22:07:11,954] INFO - Finish getting data of Locust
+[2022-01-01 22:07:11,955] INFO - Finish getting data of Loris
+[2022-01-01 22:07:11,955] INFO - Finish getting data of Louse
+[2022-01-01 22:07:11,955] INFO - Finish getting data of Lynx
+[2022-01-01 22:07:11,956] INFO - Finish getting data of Lyrebird
+[2022-01-01 22:07:11,956] INFO - Finish getting data of Macaque
+[2022-01-01 22:07:11,957] INFO - Finish getting data of Macaw
+[2022-01-01 22:07:11,957] INFO - Finish getting data of Magpie
+[2022-01-01 22:07:11,957] INFO - Finish getting data of Mallard
+[2022-01-01 22:07:11,958] INFO - Finish getting data of Mammoth
+[2022-01-01 22:07:11,958] INFO - Finish getting data of Manatee
+[2022-01-01 22:07:11,959] INFO - Finish getting data of Mandrill
+[2022-01-01 22:07:11,959] INFO - Finish getting data of Margay
+[2022-01-01 22:07:11,959] INFO - Finish getting data of Marmoset
+[2022-01-01 22:07:11,960] INFO - Finish getting data of Marmot
+[2022-01-01 22:07:11,960] INFO - Finish getting data of Meerkat
+[2022-01-01 22:07:11,960] INFO - Finish getting data of Mink
+[2022-01-01 22:07:11,961] INFO - Finish getting data of Mole 
+[2022-01-01 22:07:11,961] INFO - Finish getting data of Mongoose
+[2022-01-01 22:07:11,962] INFO - Finish getting data of Monkey
+[2022-01-01 22:07:11,962] INFO - Finish getting data of Moose
+[2022-01-01 22:07:11,963] INFO - Finish getting data of Mosquito
+[2022-01-01 22:07:11,963] INFO - Finish getting data of Mouse
+[2022-01-01 22:07:11,964] INFO - Finish getting data of Myna
+[2022-01-01 22:07:11,964] INFO - Finish getting data of Narwhal
+[2022-01-01 22:07:11,965] INFO - Finish getting data of Newt
+[2022-01-01 22:07:11,965] INFO - Finish getting data of Nightingale
+[2022-01-01 22:07:11,966] INFO - Finish getting data of Nilgai
+[2022-01-01 22:07:11,966] INFO - Finish getting data of Ocelot
+[2022-01-01 22:07:11,967] INFO - Finish getting data of Octopus
+[2022-01-01 22:07:11,967] INFO - Finish getting data of Okapi
+[2022-01-01 22:07:11,967] INFO - Finish getting data of Oncilla
+[2022-01-01 22:07:11,968] INFO - Finish getting data of Opossum
+[2022-01-01 22:07:11,968] INFO - Finish getting data of Orangutan
+[2022-01-01 22:07:11,968] INFO - Finish getting data of Oryx
+[2022-01-01 22:07:11,968] INFO - Finish getting data of Ostrich
+[2022-01-01 22:07:11,968] INFO - Finish getting data of Otter
+[2022-01-01 22:07:11,969] INFO - Finish getting data of Ox
+[2022-01-01 22:07:11,969] INFO - Finish getting data of Owl
+[2022-01-01 22:07:11,970] INFO - Finish getting data of Oyster
+[2022-01-01 22:07:11,970] INFO - Finish getting data of Black panther
+[2022-01-01 22:07:11,970] INFO - Finish getting data of Parrot
+[2022-01-01 22:07:11,971] INFO - Finish getting data of Panda
+[2022-01-01 22:07:11,971] INFO - Finish getting data of Partridge
+[2022-01-01 22:07:11,971] INFO - Finish getting data of Peafowl
+[2022-01-01 22:07:11,972] INFO - Finish getting data of Penguin
+[2022-01-01 22:07:11,972] INFO - Finish getting data of Pheasant
+[2022-01-01 22:07:11,972] INFO - Finish getting data of Domestic pig
+[2022-01-01 22:07:11,973] INFO - Finish getting data of Pigeon
+[2022-01-01 22:07:11,973] INFO - Finish getting data of Pika
+[2022-01-01 22:07:11,974] INFO - Finish getting data of Polar bear
+[2022-01-01 22:07:11,974] INFO - Finish getting data of Pony
+[2022-01-01 22:07:11,974] INFO - Finish getting data of Porcupine
+[2022-01-01 22:07:11,975] INFO - Finish getting data of Porpoise
+[2022-01-01 22:07:11,975] INFO - Finish getting data of Prairie dog
+[2022-01-01 22:07:11,976] INFO - Finish getting data of Pug
+[2022-01-01 22:07:11,976] INFO - Finish getting data of Quail
+[2022-01-01 22:07:11,976] INFO - Finish getting data of Quelea
+[2022-01-01 22:07:11,977] INFO - Finish getting data of Quetzal
+[2022-01-01 22:07:11,977] INFO - Finish getting data of Rabbit
+[2022-01-01 22:07:11,977] INFO - Finish getting data of Raccoon
+[2022-01-01 22:07:11,979] INFO - Finish getting data of Sheep
+[2022-01-01 22:07:11,979] INFO - Finish getting data of Rat
+[2022-01-01 22:07:11,979] INFO - Finish getting data of Raven
+[2022-01-01 22:07:11,980] INFO - Finish getting data of Red deer
+[2022-01-01 22:07:11,980] INFO - Finish getting data of Red panda
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Reindeer
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Rhea 
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Rhinoceros
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Rook 
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Saki monkey
+[2022-01-01 22:07:11,982] INFO - Finish getting data of Salamander
+[2022-01-01 22:07:11,983] INFO - Finish getting data of Salmon
+[2022-01-01 22:07:11,983] INFO - Finish getting data of Sand dollar
+[2022-01-01 22:07:11,983] INFO - Finish getting data of Sandpiper
+[2022-01-01 22:07:11,984] INFO - Finish getting data of Sardine
+[2022-01-01 22:07:11,984] INFO - Finish getting data of Common tsessebe
+[2022-01-01 22:07:11,984] INFO - Finish getting data of Sea lion
+[2022-01-01 22:07:11,985] INFO - Finish getting data of Seahorse
+[2022-01-01 22:07:11,985] INFO - Finish getting data of Pinniped
+[2022-01-01 22:07:11,985] INFO - Finish getting data of Serval
+[2022-01-01 22:07:11,986] INFO - Finish getting data of Shark
+[2022-01-01 22:07:11,986] INFO - Finish getting data of Sheep
+[2022-01-01 22:07:11,986] INFO - Finish getting data of Shrew
+[2022-01-01 22:07:11,987] INFO - Finish getting data of Shrike
+[2022-01-01 22:07:11,987] INFO - Finish getting data of Siamang
+[2022-01-01 22:07:11,987] INFO - Finish getting data of Skink
+[2022-01-01 22:07:11,987] INFO - Finish getting data of Skipper 
+[2022-01-01 22:07:11,988] INFO - Finish getting data of Skunk
+[2022-01-01 22:07:11,988] INFO - Finish getting data of Sloth
+[2022-01-01 22:07:11,988] INFO - Finish getting data of Snail
+[2022-01-01 22:07:11,990] INFO - Finish getting data of Snake
+[2022-01-01 22:07:11,990] INFO - Finish getting data of Spider
+[2022-01-01 22:07:11,990] INFO - Finish getting data of Spoonbill
+[2022-01-01 22:07:11,991] INFO - Finish getting data of Squid
+[2022-01-01 22:07:11,991] INFO - Finish getting data of Squirrel
+[2022-01-01 22:07:11,991] INFO - Finish getting data of Starling
+[2022-01-01 22:07:11,991] INFO - Finish getting data of Stilt
+[2022-01-01 22:07:11,992] INFO - Finish getting data of Swan
+[2022-01-01 22:07:11,992] INFO - Finish getting data of Tamarin
+[2022-01-01 22:07:11,993] INFO - Finish getting data of Tapir
+[2022-01-01 22:07:11,993] INFO - Finish getting data of Tarsier
+[2022-01-01 22:07:11,993] INFO - Finish getting data of Termite
+[2022-01-01 22:07:11,994] INFO - Finish getting data of Thrush 
+[2022-01-01 22:07:11,994] INFO - Finish getting data of Tiger
+[2022-01-01 22:07:11,995] INFO - Finish getting data of Toad
+[2022-01-01 22:07:11,995] INFO - Finish getting data of Topi
+[2022-01-01 22:07:11,995] INFO - Finish getting data of Toucan
+[2022-01-01 22:07:11,996] INFO - Finish getting data of Turaco
+[2022-01-01 22:07:11,996] INFO - Finish getting data of Domesticated turkey
+[2022-01-01 22:07:11,997] INFO - Finish getting data of Turtle
+[2022-01-01 22:07:11,997] INFO - Finish getting data of Vicuña
+[2022-01-01 22:07:11,998] INFO - Finish getting data of Thelyphonida
+[2022-01-01 22:07:11,998] INFO - Finish getting data of Viper
+[2022-01-01 22:07:11,998] INFO - Finish getting data of Vulture
+[2022-01-01 22:07:11,999] INFO - Finish getting data of Wallaby
+[2022-01-01 22:07:11,999] INFO - Finish getting data of Walrus
+[2022-01-01 22:07:11,999] INFO - Finish getting data of Wasp
+[2022-01-01 22:07:12,000] INFO - Finish getting data of Water buffalo
+[2022-01-01 22:07:12,000] INFO - Finish getting data of Waxwing
+[2022-01-01 22:07:12,001] INFO - Finish getting data of Weasel
+[2022-01-01 22:07:12,001] INFO - Finish getting data of Whale
+[2022-01-01 22:07:12,002] INFO - Finish getting data of Wobbegong
+[2022-01-01 22:07:12,002] INFO - Finish getting data of Wolf
+[2022-01-01 22:07:12,002] INFO - Finish getting data of Wolverine
+[2022-01-01 22:07:12,003] INFO - Finish getting data of Wombat
+[2022-01-01 22:07:12,003] INFO - Finish getting data of Woodpecker
+[2022-01-01 22:07:12,004] INFO - Finish getting data of Worm
+[2022-01-01 22:07:12,004] INFO - Finish getting data of Wren
+[2022-01-01 22:07:12,004] INFO - Finish getting data of Domestic Yak
+[2022-01-01 22:07:12,005] INFO - Finish getting data of Zebra
+[2022-01-01 22:07:12,059] DEBUG - Using proactor: IocpProactor
+[2022-01-01 22:07:12,061] INFO - Image of Aardvark is already exists
+[2022-01-01 22:07:12,062] INFO - Image of Albatross is already exists
+[2022-01-01 22:07:12,062] INFO - Image of Alligator is already exists
+[2022-01-01 22:07:12,062] INFO - Image of Alpaca is already exists
+[2022-01-01 22:07:12,063] INFO - Image of Anole is already exists
+[2022-01-01 22:07:12,064] INFO - Image of Ant is already exists
+[2022-01-01 22:07:12,064] INFO - Image of Anteater is already exists
+[2022-01-01 22:07:12,065] INFO - Image of Ape is already exists
+[2022-01-01 22:07:12,065] INFO - Image of Armadillo is already exists
+[2022-01-01 22:07:12,066] INFO - Image of Donkey is already exists
+[2022-01-01 22:07:12,067] INFO - Image of Baboon is already exists
+[2022-01-01 22:07:12,067] INFO - Image of Badger is already exists
+[2022-01-01 22:07:12,067] INFO - Image of Barracuda is already exists
+[2022-01-01 22:07:12,068] INFO - Image of Bat is already exists
+[2022-01-01 22:07:12,068] INFO - Image of Bear is already exists
+[2022-01-01 22:07:12,068] INFO - Image of Beaver is already exists
+[2022-01-01 22:07:12,069] INFO - Image of Bee is already exists
+[2022-01-01 22:07:12,069] INFO - Image of Binturong is already exists
+[2022-01-01 22:07:12,069] INFO - Image of Bird is already exists
+[2022-01-01 22:07:12,070] INFO - Image of Bison is already exists
+[2022-01-01 22:07:12,070] INFO - Image of Bluebird is already exists
+[2022-01-01 22:07:12,071] INFO - Image of Boar is already exists
+[2022-01-01 22:07:12,071] INFO - Image of Bobcat is already exists
+[2022-01-01 22:07:12,071] INFO - Image of Budgerigar is already exists
+[2022-01-01 22:07:12,071] INFO - Image of African buffalo is already exists
+[2022-01-01 22:07:12,072] INFO - Image of Butterfly is already exists
+[2022-01-01 22:07:12,072] INFO - Image of Camel is already exists
+[2022-01-01 22:07:12,072] INFO - Image of Capybara is already exists
+[2022-01-01 22:07:12,073] INFO - Image of Caracal is already exists
+[2022-01-01 22:07:12,073] INFO - Image of Caribou is already exists
+[2022-01-01 22:07:12,074] INFO - Image of Cassowary is already exists
+[2022-01-01 22:07:12,074] INFO - Image of Cat is already exists
+[2022-01-01 22:07:12,075] INFO - Image of Cattle is already exists
+[2022-01-01 22:07:12,075] INFO - Image of Chamois is already exists
+[2022-01-01 22:07:12,076] INFO - Image of Cheetah is already exists
+[2022-01-01 22:07:12,076] INFO - Image of Chicken is already exists
+[2022-01-01 22:07:12,076] INFO - Image of Chimpanzee is already exists
+[2022-01-01 22:07:12,077] INFO - Image of Chinchilla is already exists
+[2022-01-01 22:07:12,077] INFO - Image of Chough is already exists
+[2022-01-01 22:07:12,078] INFO - Image of Coati is already exists
+[2022-01-01 22:07:12,078] INFO - Image of Cobra is already exists
+[2022-01-01 22:07:12,079] INFO - Image of Cockroach is already exists
+[2022-01-01 22:07:12,079] INFO - Image of Cormorant is already exists
+[2022-01-01 22:07:12,080] INFO - Image of Cougar is already exists
+[2022-01-01 22:07:12,080] INFO - Image of Coyote is already exists
+[2022-01-01 22:07:12,081] INFO - Image of Crab is already exists
+[2022-01-01 22:07:12,081] INFO - Image of Crane  is already exists
+[2022-01-01 22:07:12,081] INFO - Image of Cricket  is already exists
+[2022-01-01 22:07:12,082] INFO - Image of Crocodile is already exists
+[2022-01-01 22:07:12,082] INFO - Image of Cuckoo is already exists
+[2022-01-01 22:07:12,083] INFO - Image of Curlew is already exists
+[2022-01-01 22:07:12,083] INFO - Image of Deer is already exists
+[2022-01-01 22:07:12,084] INFO - Image of Dhole is already exists
+[2022-01-01 22:07:12,084] INFO - Image of Dingo is already exists
+[2022-01-01 22:07:12,085] INFO - Image of Dinosaur is already exists
+[2022-01-01 22:07:12,085] INFO - Image of Dog is already exists
+[2022-01-01 22:07:12,085] INFO - Image of Squalidae is already exists
+[2022-01-01 22:07:12,087] INFO - Image of Donkey is already exists
+[2022-01-01 22:07:12,087] INFO - Image of Dove is already exists
+[2022-01-01 22:07:12,088] INFO - Image of Dragonfly is already exists
+[2022-01-01 22:07:12,088] INFO - Image of Duck is already exists
+[2022-01-01 22:07:12,089] INFO - Image of Dugong is already exists
+[2022-01-01 22:07:12,089] INFO - Image of Dunlin is already exists
+[2022-01-01 22:07:12,089] INFO - Image of Eagle is already exists
+[2022-01-01 22:07:12,089] INFO - Image of Echidna is already exists
+[2022-01-01 22:07:12,090] INFO - Image of Eel is already exists
+[2022-01-01 22:07:12,090] INFO - Image of Taurotragus is already exists
+[2022-01-01 22:07:12,091] INFO - Image of Elephant seal is already exists
+[2022-01-01 22:07:12,091] INFO - Image of Elk is already exists
+[2022-01-01 22:07:12,092] INFO - Image of Emu is already exists
+[2022-01-01 22:07:12,092] INFO - Image of Falcon is already exists
+[2022-01-01 22:07:12,093] INFO - Image of Ferret is already exists
+[2022-01-01 22:07:12,093] INFO - Image of Finch is already exists
+[2022-01-01 22:07:12,094] INFO - Image of Fisher  is already exists
+[2022-01-01 22:07:12,094] INFO - Image of Flamingo is already exists
+[2022-01-01 22:07:12,095] INFO - Image of Fly is already exists
+[2022-01-01 22:07:12,095] INFO - Image of Old World flycatcher is already exists
+[2022-01-01 22:07:12,096] INFO - Image of Frog is already exists
+[2022-01-01 22:07:12,097] INFO - Image of Gaur is already exists
+[2022-01-01 22:07:12,098] INFO - Image of Gazelle is already exists
+[2022-01-01 22:07:12,098] INFO - Image of Gecko is already exists
+[2022-01-01 22:07:12,099] INFO - Image of Genet  is already exists
+[2022-01-01 22:07:12,100] INFO - Image of Gerbil is already exists
+[2022-01-01 22:07:12,100] INFO - Image of Giant panda is already exists
+[2022-01-01 22:07:12,101] INFO - Image of Giraffe is already exists
+[2022-01-01 22:07:12,101] INFO - Image of Wildebeest is already exists
+[2022-01-01 22:07:12,102] INFO - Image of Goat is already exists
+[2022-01-01 22:07:12,102] INFO - Image of European goldfinch is already exists
+[2022-01-01 22:07:12,102] INFO - Image of Common merganser is already exists
+[2022-01-01 22:07:12,103] INFO - Image of Gorilla is already exists
+[2022-01-01 22:07:12,103] INFO - Image of Grasshopper is already exists
+[2022-01-01 22:07:12,104] INFO - Image of Grouse is already exists
+[2022-01-01 22:07:12,105] INFO - Image of Guanaco is already exists
+[2022-01-01 22:07:12,105] INFO - Image of Guinea fowl is already exists
+[2022-01-01 22:07:12,106] INFO - Image of Guinea pig is already exists
+[2022-01-01 22:07:12,106] INFO - Image of Gull is already exists
+[2022-01-01 22:07:12,106] INFO - Image of Hamster is already exists
+[2022-01-01 22:07:12,107] INFO - Image of Hare is already exists
+[2022-01-01 22:07:12,107] INFO - Image of Hawk is already exists
+[2022-01-01 22:07:12,108] INFO - Image of Hedgehog is already exists
+[2022-01-01 22:07:12,108] INFO - Image of Hermit crab is already exists
+[2022-01-01 22:07:12,109] INFO - Image of Heron is already exists
+[2022-01-01 22:07:12,110] INFO - Image of Hippopotamus is already exists
+[2022-01-01 22:07:12,110] INFO - Image of Hoatzin is already exists
+[2022-01-01 22:07:12,111] INFO - Image of Hoopoe is already exists
+[2022-01-01 22:07:12,111] INFO - Image of Hornet is already exists
+[2022-01-01 22:07:12,111] INFO - Image of Horse is already exists
+[2022-01-01 22:07:12,112] INFO - Image of Human is already exists
+[2022-01-01 22:07:12,112] INFO - Image of Hummingbird is already exists
+[2022-01-01 22:07:12,113] INFO - Image of Hyena is already exists
+[2022-01-01 22:07:12,113] INFO - Image of Ibis is already exists
+[2022-01-01 22:07:12,114] INFO - Image of Iguana is already exists
+[2022-01-01 22:07:12,114] INFO - Image of Impala is already exists
+[2022-01-01 22:07:12,115] INFO - Image of Jaguar is already exists
+[2022-01-01 22:07:12,115] INFO - Image of Jay is already exists
+[2022-01-01 22:07:12,116] INFO - Image of Jerboa is already exists
+[2022-01-01 22:07:12,116] INFO - Image of Kangaroo is already exists
+[2022-01-01 22:07:12,116] INFO - Image of Kingbird is already exists
+[2022-01-01 22:07:12,117] INFO - Image of Kingfisher is already exists
+[2022-01-01 22:07:12,117] INFO - Image of Kinkajou is already exists
+[2022-01-01 22:07:12,118] INFO - Image of Kite  is already exists
+[2022-01-01 22:07:12,118] INFO - Image of Koala is already exists
+[2022-01-01 22:07:12,118] INFO - Image of Kodkod is already exists
+[2022-01-01 22:07:12,119] INFO - Image of Komodo dragon is already exists
+[2022-01-01 22:07:12,119] INFO - Image of Kookaburra is already exists
+[2022-01-01 22:07:12,120] INFO - Image of Kouprey is already exists
+[2022-01-01 22:07:12,120] INFO - Image of Gray langur is already exists
+[2022-01-01 22:07:12,121] INFO - Image of Lapwing is already exists
+[2022-01-01 22:07:12,121] INFO - Image of Lark is already exists
+[2022-01-01 22:07:12,122] INFO - Image of Lechwe is already exists
+[2022-01-01 22:07:12,122] INFO - Image of Lemur is already exists
+[2022-01-01 22:07:12,123] INFO - Image of Leopard is already exists
+[2022-01-01 22:07:12,124] INFO - Image of Lion is already exists
+[2022-01-01 22:07:12,124] INFO - Image of Llama is already exists
+[2022-01-01 22:07:12,125] INFO - Image of Lobster is already exists
+[2022-01-01 22:07:12,125] INFO - Image of Loris is already exists
+[2022-01-01 22:07:12,125] INFO - Image of Louse is already exists
+[2022-01-01 22:07:12,126] INFO - Image of Lynx is already exists
+[2022-01-01 22:07:12,126] INFO - Image of Lyrebird is already exists
+[2022-01-01 22:07:12,127] INFO - Image of Macaque is already exists
+[2022-01-01 22:07:12,127] INFO - Image of Macaw is already exists
+[2022-01-01 22:07:12,127] INFO - Image of Magpie is already exists
+[2022-01-01 22:07:12,128] INFO - Image of Mallard is already exists
+[2022-01-01 22:07:12,128] INFO - Image of Mammoth is already exists
+[2022-01-01 22:07:12,129] INFO - Image of Manatee is already exists
+[2022-01-01 22:07:12,129] INFO - Image of Mandrill is already exists
+[2022-01-01 22:07:12,130] INFO - Image of Margay is already exists
+[2022-01-01 22:07:12,130] INFO - Image of Marmot is already exists
+[2022-01-01 22:07:12,131] INFO - Image of Meerkat is already exists
+[2022-01-01 22:07:12,131] INFO - Image of Mink is already exists
+[2022-01-01 22:07:12,132] INFO - Image of Mongoose is already exists
+[2022-01-01 22:07:12,132] INFO - Image of Moose is already exists
+[2022-01-01 22:07:12,133] INFO - Image of Mosquito is already exists
+[2022-01-01 22:07:12,133] INFO - Image of Myna is already exists
+[2022-01-01 22:07:12,133] INFO - Image of Narwhal is already exists
+[2022-01-01 22:07:12,133] INFO - Image of Newt is already exists
+[2022-01-01 22:07:12,134] INFO - Image of Nightingale is already exists
+[2022-01-01 22:07:12,134] INFO - Image of Nilgai is already exists
+[2022-01-01 22:07:12,135] INFO - Image of Ocelot is already exists
+[2022-01-01 22:07:12,135] INFO - Image of Octopus is already exists
+[2022-01-01 22:07:12,135] INFO - Image of Okapi is already exists
+[2022-01-01 22:07:12,136] INFO - Image of Oncilla is already exists
+[2022-01-01 22:07:12,136] INFO - Image of Opossum is already exists
+[2022-01-01 22:07:12,137] INFO - Image of Orangutan is already exists
+[2022-01-01 22:07:12,138] INFO - Image of Oryx is already exists
+[2022-01-01 22:07:12,138] INFO - Image of Ostrich is already exists
+[2022-01-01 22:07:12,139] INFO - Image of Otter is already exists
+[2022-01-01 22:07:12,139] INFO - Image of Owl is already exists
+[2022-01-01 22:07:12,140] INFO - Image of Parrot is already exists
+[2022-01-01 22:07:12,140] INFO - Image of Panda is already exists
+[2022-01-01 22:07:12,141] INFO - Image of Partridge is already exists
+[2022-01-01 22:07:12,141] INFO - Image of Penguin is already exists
+[2022-01-01 22:07:12,142] INFO - Image of Pheasant is already exists
+[2022-01-01 22:07:12,142] INFO - Image of Domestic pig is already exists
+[2022-01-01 22:07:12,142] INFO - Image of Pigeon is already exists
+[2022-01-01 22:07:12,143] INFO - Image of Pika is already exists
+[2022-01-01 22:07:12,143] INFO - Image of Polar bear is already exists
+[2022-01-01 22:07:12,144] INFO - Image of Porpoise is already exists
+[2022-01-01 22:07:12,144] INFO - Image of Prairie dog is already exists
+[2022-01-01 22:07:12,145] INFO - Image of Pug is already exists
+[2022-01-01 22:07:12,145] INFO - Image of Quelea is already exists
+[2022-01-01 22:07:12,146] INFO - Image of Quetzal is already exists
+[2022-01-01 22:07:12,146] INFO - Image of Rabbit is already exists
+[2022-01-01 22:07:12,147] INFO - Image of Raccoon is already exists
+[2022-01-01 22:07:12,147] INFO - Image of Sheep is already exists
+[2022-01-01 22:07:12,148] INFO - Image of Red deer is already exists
+[2022-01-01 22:07:12,148] INFO - Image of Red panda is already exists
+[2022-01-01 22:07:12,149] INFO - Image of Reindeer is already exists
+[2022-01-01 22:07:12,149] INFO - Image of Rhea  is already exists
+[2022-01-01 22:07:12,149] INFO - Image of Rhinoceros is already exists
+[2022-01-01 22:07:12,150] INFO - Image of Rook  is already exists
+[2022-01-01 22:07:12,150] INFO - Image of Saki monkey is already exists
+[2022-01-01 22:07:12,151] INFO - Image of Salamander is already exists
+[2022-01-01 22:07:12,151] INFO - Image of Sand dollar is already exists
+[2022-01-01 22:07:12,152] INFO - Image of Sandpiper is already exists
+[2022-01-01 22:07:12,153] INFO - Image of Common tsessebe is already exists
+[2022-01-01 22:07:12,153] INFO - Image of Sea lion is already exists
+[2022-01-01 22:07:12,154] INFO - Image of Seahorse is already exists
+[2022-01-01 22:07:12,154] INFO - Image of Pinniped is already exists
+[2022-01-01 22:07:12,154] INFO - Image of Serval is already exists
+[2022-01-01 22:07:12,155] INFO - Image of Shark is already exists
+[2022-01-01 22:07:12,155] INFO - Image of Sheep is already exists
+[2022-01-01 22:07:12,155] INFO - Image of Shrew is already exists
+[2022-01-01 22:07:12,156] INFO - Image of Shrike is already exists
+[2022-01-01 22:07:12,156] INFO - Image of Siamang is already exists
+[2022-01-01 22:07:12,157] INFO - Image of Skink is already exists
+[2022-01-01 22:07:12,157] INFO - Image of Skipper  is already exists
+[2022-01-01 22:07:12,157] INFO - Image of Sloth is already exists
+[2022-01-01 22:07:12,158] INFO - Image of Snail is already exists
+[2022-01-01 22:07:12,158] INFO - Image of Snake is already exists
+[2022-01-01 22:07:12,159] INFO - Image of Spider is already exists
+[2022-01-01 22:07:12,159] INFO - Image of Spoonbill is already exists
+[2022-01-01 22:07:12,159] INFO - Image of Squid is already exists
+[2022-01-01 22:07:12,160] INFO - Image of Squirrel is already exists
+[2022-01-01 22:07:12,160] INFO - Image of Starling is already exists
+[2022-01-01 22:07:12,161] INFO - Image of Stilt is already exists
+[2022-01-01 22:07:12,161] INFO - Image of Swan is already exists
+[2022-01-01 22:07:12,161] INFO - Image of Tamarin is already exists
+[2022-01-01 22:07:12,162] INFO - Image of Tapir is already exists
+[2022-01-01 22:07:12,162] INFO - Image of Tarsier is already exists
+[2022-01-01 22:07:12,162] INFO - Image of Termite is already exists
+[2022-01-01 22:07:12,162] INFO - Image of Thrush  is already exists
+[2022-01-01 22:07:12,163] INFO - Image of Tiger is already exists
+[2022-01-01 22:07:12,163] INFO - Image of Toad is already exists
+[2022-01-01 22:07:12,164] INFO - Image of Topi is already exists
+[2022-01-01 22:07:12,165] INFO - Image of Toucan is already exists
+[2022-01-01 22:07:12,165] INFO - Image of Turaco is already exists
+[2022-01-01 22:07:12,166] INFO - Image of Domesticated turkey is already exists
+[2022-01-01 22:07:12,166] INFO - Image of Turtle is already exists
+[2022-01-01 22:07:12,167] INFO - Image of Vicuña is already exists
+[2022-01-01 22:07:12,167] INFO - Image of Thelyphonida is already exists
+[2022-01-01 22:07:12,167] INFO - Image of Viper is already exists
+[2022-01-01 22:07:12,168] INFO - Image of Vulture is already exists
+[2022-01-01 22:07:12,169] INFO - Image of Walrus is already exists
+[2022-01-01 22:07:12,169] INFO - Image of Water buffalo is already exists
+[2022-01-01 22:07:12,170] INFO - Image of Waxwing is already exists
+[2022-01-01 22:07:12,170] INFO - Image of Weasel is already exists
+[2022-01-01 22:07:12,171] INFO - Image of Wobbegong is already exists
+[2022-01-01 22:07:12,171] INFO - Image of Wolf is already exists
+[2022-01-01 22:07:12,171] INFO - Image of Wolverine is already exists
+[2022-01-01 22:07:12,172] INFO - Image of Wombat is already exists
+[2022-01-01 22:07:12,172] INFO - Image of Woodpecker is already exists
+[2022-01-01 22:07:12,173] INFO - Image of Wren is already exists
+[2022-01-01 22:07:12,173] INFO - Image of Domestic Yak is already exists
+[2022-01-01 22:07:12,173] INFO - Image of Zebra is already exists
+[2022-01-01 22:07:13,023] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Fox "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,025] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Rat "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,027] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Jellyfish "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,028] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Ibex "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,029] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Jackal "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,031] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Gnat "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,036] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Elephant "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,038] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Cod "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,039] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Peafowl "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,041] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Skunk "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,042] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Wasp "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,044] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Antelope "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,045] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Sardine "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,049] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Oyster "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,051] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Locust "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,054] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Salmon "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,057] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Monkey "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,059] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Mouse "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,060] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Black_panther "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,061] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Pony "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,062] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Worm "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,064] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Kudu "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,065] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Quail "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,067] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Fish "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,068] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Wallaby "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,070] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Raven "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,072] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Ox "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,077] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Marmoset "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,078] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Lizard "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,081] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Goose "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,082] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Porcupine "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,127] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Whale "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,129] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Crow "HTTP/1.1 200 OK"
+[2022-01-01 22:07:13,134] ERROR - There is no image of Gnat
+[2022-01-01 22:07:14,194] ERROR - There is no image of Crow
+[2022-01-01 22:07:14,195] ERROR - There is no image of Ibex
+[2022-01-01 22:07:14,211] ERROR - There is no image of Jackal
+[2022-01-01 22:07:14,211] ERROR - There is no image of Antelope
+[2022-01-01 22:07:14,213] ERROR - There is no image of Ox
+[2022-01-01 22:07:14,214] ERROR - There is no image of Mouse
+[2022-01-01 22:07:14,214] ERROR - There is no image of Pony
+[2022-01-01 22:07:14,215] ERROR - There is no image of Quail
+[2022-01-01 22:07:14,216] ERROR - There is no image of Raven
+[2022-01-01 22:07:14,216] ERROR - There is no image of Kudu
+[2022-01-01 22:07:14,217] ERROR - There is no image of Wallaby
+[2022-01-01 22:07:14,217] ERROR - There is no image of Worm
+[2022-01-01 22:07:14,218] ERROR - There is no image of Sardine
+[2022-01-01 22:07:14,835] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Goshawk "HTTP/1.1 200 OK"
+[2022-01-01 22:07:17,084] ERROR - There is no image of Skunk
+[2022-01-01 22:07:17,085] ERROR - There is no image of Marmoset
+[2022-01-01 22:07:17,087] ERROR - There is no image of Goose
+[2022-01-01 22:07:17,088] ERROR - There is no image of Black panther
+[2022-01-01 22:07:17,088] ERROR - There is no image of Porcupine
+[2022-01-01 22:07:18,198] ERROR - There is no image of Cod
+[2022-01-01 22:07:18,203] ERROR - There is no image of Peafowl
+[2022-01-01 22:07:18,204] ERROR - There is no image of Wasp
+[2022-01-01 22:07:18,204] ERROR - There is no image of Rat
+[2022-01-01 22:07:18,241] ERROR - There is no image of Oyster
+[2022-01-01 22:07:18,242] ERROR - There is no image of Locust
+[2022-01-01 22:07:18,242] ERROR - There is no image of Fox
+[2022-01-01 22:07:18,606] ERROR - There is no image of Monkey
+[2022-01-01 22:07:18,607] ERROR - There is no image of Lizard
+[2022-01-01 22:07:18,607] ERROR - There is no image of Elephant
+[2022-01-01 22:07:19,590] ERROR - There is no image of Goshawk
+[2022-01-01 22:07:19,591] ERROR - There is no image of Jellyfish
+[2022-01-01 22:07:19,592] ERROR - There is no image of Salmon
+[2022-01-01 22:07:19,593] ERROR - There is no image of Whale
+[2022-01-01 22:07:19,593] ERROR - There is no image of Fish
+[2022-01-01 22:07:19,595] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Caterpillar "HTTP/1.1 200 OK"
+[2022-01-01 22:07:19,597] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Mole_(animal) "HTTP/1.1 200 OK"
+[2022-01-01 22:07:19,600] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Dolphin "HTTP/1.1 200 OK"
+[2022-01-01 22:07:19,602] DEBUG - HTTP Request: GET https://en.wikipedia.org/wiki/Herring "HTTP/1.1 200 OK"
+[2022-01-01 22:07:19,720] ERROR - There is no image of Mole 
+[2022-01-01 22:07:20,154] ERROR - There is no image of Caterpillar
+[2022-01-01 22:07:20,156] ERROR - There is no image of Herring
+[2022-01-01 22:07:20,552] ERROR - There is no image of Dolphin
+[2022-01-01 22:07:20,553] INFO - Producing collateral adjectives for animals is DONE
